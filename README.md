@@ -1,5 +1,11 @@
 그런트 작업환경
 
+npm install
+
+grunt
+
+--
+
 1.Sass
 
 2.html hint (문법 검사)
