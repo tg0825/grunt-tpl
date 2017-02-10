@@ -1,0 +1,29 @@
+{
+  "name": "grunt-test",
+  "authors": [
+    "tg0825 <tg0825@backpack.kr>"
+  ],
+  "description": "test",
+  "main": "",
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "vue": "^2.1.10"
+  },
+  "install" : {
+    "path" : {
+      "css" : "src/css",
+      "js" : "src/lib"
+    },
+    "sources" : {
+      "vue" : "bower_components/vue/dist/vue.js"
+    }
+  }
+}

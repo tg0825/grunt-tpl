@@ -1,0 +1,35 @@
+{
+  "name": "test",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": [
+    "grunt"
+  ],
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "tg0825",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/grunt-tpl/grunt-tpl.git"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "grunt": "^1.0.1",
+    "grunt-contrib-watch": "^1.0.0"
+  },
+  "devDependencies": {
+    "grunt": "^1.0.1",
+    "grunt-contrib-watch": "^1.0.0",
+    "grunt-browser-sync": "^2.2.0",
+    "grunt-contrib-connect": "^1.0.2",
+    "grunt-htmlhint": "^0.9.13",
+    "grunt-include-replace": "^5.0.0",
+    "grunt-newer": "^1.2.0",
+    "grunt-sass": "^2.0.0",
+    "jit-grunt": "^0.10.0",
+    "load-grunt-tasks": "^3.5.2",
+    "time-grunt": "^1.4.0"
+  }
+}
